@@ -1,0 +1,1 @@
+This script computes the average usage metrics in a variety of categories according to firm size. The results are printed to the input table. Results are used to create a email newsletter that display product usage and comparisons.
